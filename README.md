@@ -204,11 +204,11 @@ CREATE TABLE shopping_data (
 
 ## 👤 Author
 
-**[Your Name]**
-B.Tech — [Your Branch] | [Your College Name] | Batch [Year]
+Nikhil kumar sharma
+B.Tech CSE — final year | Galgotias University | Batch 2022 - 26
 
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [linkedin.com/in/your_profile](https://linkedin.com/in/your_profile)
+- GitHub: https://github.com/nikhil24sharma
+- LinkedIn: https://www.linkedin.com/in/nikhil-sharma-b66732249/
 
 ---
 
