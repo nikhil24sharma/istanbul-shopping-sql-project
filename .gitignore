@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Large datasets (use Git LFS or link to Kaggle instead)
+*.csv.gz
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# MySQL dump files
+*.sql.bak
